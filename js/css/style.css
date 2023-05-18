@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    margin-top:120px;
+    background-image: url(../img/Cwgf.gif);
+}
+
+button{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 7px;
+    border-style: none;
+    background-color: rgb(0, 255, 255);
+    margin: 5px 0 5px 0;
+    font-size: 30px;
+    
+    
+    
+}
+#sum{
+width: 20px;
+font-size: 30px;
+font-weight: bolder;
+color:rgb(255, 255, 255);
+}
+.btns1{
+    margin-left: 140px;
+}
+.container{
+    width: 30rem;
+    height: 30rem;
+    border-radius: 20px;
+    background-color: rgba(3, 80, 156, 0.186);
+    box-shadow: 0px 0 999rem 0 dodgerblue ;
+    
+    
+}
+.sumi{
+    width: 13rem;
+    height: 3rem;
+    background-color: rgba(93, 93, 202, 0.253);
+    margin-left:140px;
+    margin-top: 70px;
+
+}
+#ac{
+    width: 100px;
+}
+#de{
+    width: 48px;
+}
+#equal{
+    width: 100px;
+}
